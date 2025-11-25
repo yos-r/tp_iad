@@ -355,5 +355,5 @@ Les paramètres sont récupérés dans `setup()` via `getArguments()`.
 
 ---
 
-**Auteur** : TP IAD 2025
+**Auteur** : Yosr Barghouti 3IDL2
 **Framework** : JADE 4.6.0
